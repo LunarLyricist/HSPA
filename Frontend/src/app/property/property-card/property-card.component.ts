@@ -14,7 +14,7 @@ export class PropertyCardComponent {
         "Id":1,
         "Type":"House",
         "Name": "Birla House",
-        "Price":120000
+        "Price":12000
     }
 
 }
