@@ -23,7 +23,7 @@ export class PropertyListComponent {
     "Type":"House",
     "Name": "Erose Villa",
     "Price":15000
-    },,
+    },
     {
     "Id":3,
     "Type":"House",
@@ -72,8 +72,5 @@ export class PropertyListComponent {
     "Name": "Hillcrest Residency",
     "Price":12900
     }
-        
   ]
-
-
 }
